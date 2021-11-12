@@ -1,6 +1,6 @@
-# HOTTER
+# 🔥 HOTTER 🔥
 
-Welcome to the code base for the paper :fire:"HOTTER: Hierarchical Optimal Topic Transport with Explanatory Context Representations":fire: published in the ["Findings of EMNLP 2021"](https://aclanthology.org/2021.findings-emnlp.418/).
+Welcome to the code base for the paper "HOTTER: Hierarchical Optimal Topic Transport with Explanatory Context Representations" published in the ["Findings of EMNLP 2021"](https://aclanthology.org/2021.findings-emnlp.418/).
 
 💥 HOTTER is a document meta-distance, combining an LDA topic model with contextual word embeddings from BERT.
 

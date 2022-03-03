@@ -32,7 +32,8 @@ If you have any questions, please contact me: sabine DOT wehnert AT gei DOT de.
 
 💥 Please cite using the following BibTeX entry (instead of Google Scholar):
 
-```@inproceedings{wehnert-etal-2021-hotter-hierarchical,
+```
+@inproceedings{wehnert-etal-2021-hotter-hierarchical,
     title = "{HOTTER}: {H}ierarchical Optimal Topic Transport with Explanatory Context Representations",
     author = {Wehnert, Sabine  and
       Scheel, Christian  and
